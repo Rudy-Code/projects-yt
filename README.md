@@ -60,7 +60,7 @@ Tak, jestem otwarty na współpracę przy projektach frontendowych. Jeśli masz 
 
 ## 4. Czy mogę proponować tematy do nowych projektów?
 
-Oczywiście! Jestem otwarty na propozycje tematów od mojej społeczności. Jeśli masz jakiś konkretny temat, który chciałbyś zobaczyć na moim kanale, śmiało podziel się swoimi sugestiami na moim serwerze Discord.
+Oczywiście! Jestem otwarty na propozycje tematów od mojej społeczności. Jeśli masz jakiś konkretny temat, który chciałbyś zobaczyć na moim kanale, śmiało podziel się swoimi sugestiami na moim serwerze [Discord](https://discord.gg/YDx4urrGCC).
 
 ## Roadmapa
 
