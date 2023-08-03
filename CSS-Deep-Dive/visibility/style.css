@@ -24,7 +24,7 @@ body::after{
 	right: 0;
 	width: 100px;
 	height: 100px;
-	background: url('../../media/logo.gif') no-repeat center center/cover;
+	background: url('https://github.com/RudyDev1/projects-yt/blob/main/media/logo.gif?raw=true') no-repeat center center/cover;
 }
 
 .boxes {
