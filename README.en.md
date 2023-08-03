@@ -1,4 +1,5 @@
-![RudyDev Your Professional Web Development Projects](media/baner.gif)
+<img src="media/baner.gif" alt="baner RudyDev Twoje Profesjonalne Strony Internetowe" width="100%"> <br>
+
 # YouTube Projects ("projects-yt")
 
 Welcome to the **"YouTube Projects"** folder! Here you will find all the projects available on my YouTube channel.

@@ -1,4 +1,5 @@
-![baner RudyDev Twoje Profesjonalne Strony Internetowe](media/baner.gif)
+<img src="media/baner.gif" alt="baner RudyDev Twoje Profesjonalne Strony Internetowe" width="100%"> <br>
+
 # Projekty YT ("projects-yt")
 
 Witaj w folderze **"Projekty YT"!** Tutaj znajdziesz wszystkie projekty, które są dostępne na moim kanale YT.
