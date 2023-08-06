@@ -28,10 +28,9 @@ body::after{
 }
 
 .boxes {
-	width: 1000px;
 	display: flex;
 	align-items: center;
-	justify-content: space-between;
+	justify-content: space-around;
 }
 
 .box {
@@ -41,7 +40,6 @@ body::after{
 	font-size: 40px;
 	width: 200px;
 	height: 200px;
-	margin: 10px;
 	background-color: #0db7d1;
 	background: linear-gradient(-45deg, #ee7752, #e73c73, #23a6d5, #23d5ab);
 	background-size: 400% 400%;
@@ -49,13 +47,18 @@ body::after{
 	text-align: center;
 	border-radius: 5px;
 	animation: changeColor 10s ease-in-out infinite;
+	margin-right: 100px;
+}
+
+.box:last-of-type{
+	margin-right: 0;
 }
 
 .two {
 	/* zobacz zmiany odkomentowywując linie kodu */
 
 	/* visibility: hidden; */
-	display: none;
+	/* display: none; */
 }
 
 @keyframes changeColor {
