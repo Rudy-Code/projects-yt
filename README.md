@@ -32,10 +32,10 @@ Wszystkie serie są podzielone na foldery w których są projekty zawierające p
 ## Linki - media społecznościowe
 
 <ul>
- <li><a href="https://www.youtube.com/channel/UCBW7dzLko_sN4L7pzaxezvA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YY logo" height="30" width="40" /> RudyDev</a></li>
+ <li><a href="https://www.youtube.com/channel/UCBW7dzLko_sN4L7pzaxezvA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YY logo" height="30" width="40" /> RudyCode</a></li>
 
- <li><a href="https://discord.gg/RudyDev#8260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /> .rudydev</a></li>
- <li><a href="https://discord.gg/YDx4urrGCC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /> HypeCode</a></li>
+ <li><a href="https://discord.gg/RudyDev#8260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /> rudycode</a></li>
+ <li><a href="https://discord.gg/xWtXmgwdw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /> RudyCode - Twoja Wizja, Nasza Realizacja</a></li>
 </ul>
 
 ## Najczęściej Zadawane Pytania (FAQ)
@@ -45,14 +45,14 @@ Wszystkie serie są podzielone na foldery w których są projekty zawierające p
 Tak, możesz używać kodu z moich projektów w swoich projektach. Nie musisz się nawet o to pytać. Wystarczy, że `wkleisz na stronie informację`, że kod pochodzi ode mnie: <br>
 
 ```html
-<a href="https://github.com/RudyDev1/projects-yt">Strona wykorzystuje kod od RudyDev</a>
+<a href="https://github.com/Rudy-Code/projects-yt">Strona wykorzystuje kod od RudyCode</a>
 ```
 
 [więcej informacji](LICENSE)
 
 ## 2. Jak mogę się z Tobą skontaktować?
 
-Najlepszym sposobem na kontakt ze mną jest dołączenie do mojego serwera [Discord](https://discord.gg/YDx4urrGCC). Tam możesz zadać mi pytanie lub po prostu porozmawiać ze mną. <br>
+Najlepszym sposobem na kontakt ze mną jest dołączenie do mojego serwera [Discord](https://discord.gg/xWtXmgwdw7). Tam możesz zadać mi pytanie lub po prostu porozmawiać ze mną. <br>
 Jednak jeśli wolisz standardowe metody, to możesz skontaktować się ze mną poprzez e-mail: fcmaro.g@gmail.com <br>
 
 ## 3. Czy jesteś dostępny do współpracy przy projektach?
@@ -61,7 +61,7 @@ Tak, jestem otwarty na współpracę przy projektach frontendowych. Jeśli masz 
 
 ## 4. Czy mogę proponować tematy do nowych projektów?
 
-Oczywiście! Jestem otwarty na propozycje tematów od mojej społeczności. Jeśli masz jakiś konkretny temat, który chciałbyś zobaczyć na moim kanale, śmiało podziel się swoimi sugestiami na moim serwerze [Discord](https://discord.gg/YDx4urrGCC).
+Oczywiście! Jestem otwarty na propozycje tematów od mojej społeczności. Jeśli masz jakiś konkretny temat, który chciałbyś zobaczyć na moim kanale, śmiało podziel się swoimi sugestiami na moim serwerze [Discord](https://discord.gg/xWtXmgwdw7).
 
 ## Roadmapa
 
