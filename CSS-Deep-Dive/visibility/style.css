@@ -14,23 +14,15 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	flex-direction: column;
 	height: 100vh;
 }
 
-body::after{
-	content: '';
-	position: fixed;
-	bottom: 0;
-	right: 0;
-	width: 100px;
-	height: 100px;
-	background: url('https://github.com/RudyDev1/projects-yt/blob/main/media/logo.gif?raw=true') no-repeat center center/cover;
-}
-
-.boxes {
+.container {
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
+	margin-top: 50px;
 }
 
 .box {
@@ -48,17 +40,27 @@ body::after{
 	border-radius: 5px;
 	animation: changeColor 10s ease-in-out infinite;
 	margin-right: 100px;
+	cursor: pointer;
 }
 
-.box:last-of-type{
+.box:last-of-type {
 	margin-right: 0;
 }
 
-.two {
-	/* zobacz zmiany odkomentowywując linie kodu */
+/** zobacz zmiany odkomentowywując linie kodu */
 
+.one{
 	/* visibility: hidden; */
+}
+
+.two {
 	/* display: none; */
+}
+
+/* bonus */
+
+.three {
+	/* opacity: 0; */
 }
 
 @keyframes changeColor {
