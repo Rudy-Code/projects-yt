@@ -44,10 +44,6 @@ body {
 	transition: scale 0.3s;
 }
 
-/* .box:last-of-type {
-	margin-right: 0;
-} */
-
 .btn {
 	width: 150px;
 	height: 50px;
