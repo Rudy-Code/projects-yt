@@ -41,26 +41,26 @@ body {
 	animation: changeColor 10s ease-in-out infinite;
 	margin-right: 100px;
 	cursor: pointer;
+	transition: scale 0.3s;
 }
 
-.box:last-of-type {
+/* .box:last-of-type {
 	margin-right: 0;
-}
+} */
 
-/** zobacz zmiany odkomentowywując linie kodu */
-
-.one{
-	/* visibility: hidden; */
-}
-
-.two {
-	/* display: none; */
-}
-
-/* bonus */
-
-.three {
-	/* opacity: 0; */
+.btn {
+	width: 150px;
+	height: 50px;
+	font-size: 22px;
+	background-color: #0db7d1;
+	outline: none;
+	border: none;
+	color: #fff;
+	transition: background-color 0.3s;
+	cursor: pointer;
+	&:hover {
+		background-color: #23d5ab;
+	}
 }
 
 @keyframes changeColor {
