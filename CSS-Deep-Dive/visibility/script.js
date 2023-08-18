@@ -1,4 +1,6 @@
 const btns = document.querySelectorAll('.btn')
+const boxes = document.querySelectorAll('.box')
+const h1 = document.querySelector('h1')
 
 const showHideBox = e => {
 	const value = e.target.value
@@ -15,9 +17,29 @@ btns.forEach(btn => {
 	btn.addEventListener('click', showHideBox)
 })
 
-const boxes = document.querySelectorAll('.box')
 boxes.forEach(box => {
-	box.addEventListener('click', e => {
-		alert('Kliknięto!')
+	box.addEventListener('click', () => {
+		h1.textContent = 'Kliknięto w box'
+		setTimeout(() => {
+			h1.textContent = '-'
+		}, 1500)
 	})
 })
+
+/* cursor event*/
+
+document.addEventListener('click', () => applyCursorRippleEffect(event))
+
+function applyCursorRippleEffect(e) {
+	const ripple = document.createElement('div')
+
+	ripple.className = 'ripple'
+	document.body.appendChild(ripple)
+
+	ripple.style.left = `${e.clientX}px`
+	ripple.style.top = `${e.clientY}px`
+	ripple.style.animation = `ripple-effect .4s  linear`
+	ripple.onanimationend = () => {
+		document.body.removeChild(ripple)
+	}
+}
