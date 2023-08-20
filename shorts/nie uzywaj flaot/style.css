@@ -1,0 +1,51 @@
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: #fff;
+	background-color: #333;
+	font-size: 36px;
+	text-align: center;
+}
+
+.one,
+.two,
+.three {
+	width: 50%;
+	height: 200px;
+	background-color: rgb(250, 250, 0);
+}
+
+/* float */
+
+.one {
+	background-color: lime;
+	float: left;
+}
+
+.two {
+	background-color: royalblue;
+	float: left;
+}
+
+.three {
+	width: 100%;
+	clear: both;
+}
+
+footer {
+	width: 100%;
+	height: 100px;
+	background-color: crimson;
+}
+
+/* flex */
+
+.container {
+	display: flex;
+}
