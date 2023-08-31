@@ -1,0 +1,38 @@
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.gradient-text {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	font-size: 72px;
+}
+
+.gradient-text h1 {
+	background: linear-gradient(45deg, #f4045c, #2353e6, #0fe5e5);
+	background-size: 300%;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	color: transparent;
+	/* with animation */
+	animation: gradient-animation 5s ease-in-out infinite;
+}
+
+@keyframes gradient-animation {
+	0%{
+		background-position: 0% 50%;
+	}
+	50%{
+		background-position: 100% 50%;
+	}
+	100%{
+		background-position: 0% 50%;
+	}
+}
