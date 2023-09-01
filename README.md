@@ -28,6 +28,7 @@ Wszystkie serie są podzielone na foldery w których są projekty zawierające p
 | [Responsywne Tworzenie Stron](Responsywne-Tworzenie-Stron)                                      | Dowiedz się, jak tworzyć responsywne strony internetowe od podstaw. W tej serii dowiesz się, jak projektować sekcje hero, budować galerie obrazów, a także jak dostosować style do różnych urządzeń za pomocą media queries.                                                      |
 | [CSS DEEP DIVE](CSS-Deep-Dive)                                                                  | Zanurz się w zaawansowane techniki CSS, które sprawią, że Twoje strony będą się wyróżniać. Poznasz różnice między popularnymi właściwościami CSS, jak również nauczysz się korzystać z preprocesora SCSS, aby efektywnie zarządzać stylem.                                        |
 | [Skuteczne Programowanie Frontendu](Skuteczne-Programowanie-Frontendu)                          | W tej serii nauczysz się skrótów klawiszowych i narzędzi, które przyspieszą Twój workflow w Visual Studio Code. Odkryj także, jak efektywnie korzystać z Gita i GitHuba, organizować kod frontendowy i rozwiązywać problemy przy użyciu narzędzi deweloperskich w przeglądarkach. |
+| [Shorts](shorts)| Szybkie poradniki np. animowany gradient |
 
 ## Linki - media społecznościowe
 

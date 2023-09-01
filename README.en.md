@@ -28,6 +28,7 @@ All series are divided into folders, each containing code files and a README.md 
 | [Responsive Web Design](Responsive-Web-Design)                                                   | Learn how to create responsive web pages from scratch. In this series, you will learn how to design hero sections, build image galleries, and adapt styles to different devices using media queries.                                     |
 | [CSS DEEP DIVE](CSS-Deep-Dive)                                                                   | Dive into advanced CSS techniques that will make your websites stand out. You'll learn the differences between popular CSS properties and how to use the SCSS preprocessor to efficiently manage styles.                                 |
 | [Effective Frontend Development](Effective-Frontend-Development)                                 | In this series, you'll learn keyboard shortcuts and tools to speed up your workflow in Visual Studio Code. Discover how to effectively use Git and GitHub, organize frontend code, and solve problems using developer tools in browsers. |
+| [Shorts](shorts) | Quick tips, e.g. animated gradient |
 
 ## Social Media Links
 
