@@ -66,6 +66,9 @@ Absolutely! I welcome topic suggestions from my community. If you have a specifi
 ## Roadmap
 
 - [x] Hiding Elements: display: none vs visibility: hidden
+- [x] Stop using float
+- [ ] Animated text gradient in CSS
+- [x] How to make an animated gradient background in CSS
 - [ ] Understanding the differences between position: absolute, relative, and fixed
 - [ ] CSS Units: PX, EM, or REM? Which to choose and when?
 - [ ] Learn the BEM technique

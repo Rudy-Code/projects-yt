@@ -66,6 +66,11 @@ Oczywiście! Jestem otwarty na propozycje tematów od mojej społeczności. Jeś
 ## Roadmapa
 
 - [x] Ukrywanie Elementów: display: none vs visibility: hidden
+- [x] Przestań używać float
+- [ ] Animowany text gradient w CSS
+- [x] Jak zrobić animowane tło gradient w CSS
+- [ ] Animated gradient shadow
+- [ ] Animowany gradient cień
 - [ ] Poznaj różnice między position: absolute, relative i fixed
 - [ ] Jednostki w CSS: PX, EM czy REM? Jakie wybrać i kiedy?
 - [ ] Poznaj technikę BEM
