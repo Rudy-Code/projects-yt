@@ -1,4 +1,4 @@
-<img src="media/baner.gif" alt="baner RudyDev Twoje Profesjonalne Strony Internetowe" width="100%"> <br>
+<img src="media/baner.gif" alt="baner rudycode Twoje Profesjonalne Strony Internetowe" width="100%"> <br>
 
 # Projekty YT ("projects-yt")
 
@@ -35,7 +35,7 @@ Wszystkie serie są podzielone na foldery w których są projekty zawierające p
 <ul>
  <li><a href="https://www.youtube.com/channel/UCBW7dzLko_sN4L7pzaxezvA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YY logo" height="30" width="40" /> RudyCode</a></li>
 
- <li><a href="https://discord.gg/RudyDev#8260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /> rudycode</a></li>
+ <li><a href="https://discord.gg/rudycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /> rudycode</a></li>
  <li><a href="https://discord.gg/xWtXmgwdw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /> RudyCode - Twoja Wizja, Nasza Realizacja</a></li>
 </ul>
 
