@@ -1,4 +1,4 @@
-<img src="media/baner.gif" alt="baner RudyDev Twoje Profesjonalne Strony Internetowe" width="100%"> <br>
+<img src="media/baner.gif" alt="baner RudyCode Twoje Profesjonalne Strony Internetowe" width="100%"> <br>
 
 # YouTube Projects ("projects-yt")
 
@@ -35,7 +35,7 @@ All series are divided into folders, each containing code files and a README.md 
 <ul>
  <li><a href="https://www.youtube.com/channel/UCBW7dzLko_sN4L7pzaxezvA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YY logo" height="30" width="40" /> RudyCode</a></li>
 
- <li><a href="https://discord.gg/RudyDev#8260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /> rudycode</a></li>
+ <li><a href="https://discord.gg/rudycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /> rudycode</a></li>
  <li><a href="https://discord.gg/xWtXmgwdw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord logo" height="30" width="40" /> RudyCode - Twoja Wizja, Nasza Realizacja</a></li>
 </ul>
 
@@ -46,7 +46,7 @@ All series are divided into folders, each containing code files and a README.md 
 Yes, you can use code from my projects in your own projects. You don't even need to ask for permission. Just `add the following information` to your website:
 
 ```html
-<a href="https://github.com/RudyDev1/projects-yt">Website uses code from RudyDev</a>
+<a href="https://github.com/RudyCode1/projects-yt">Website uses code from RudyCode</a>
 ```
 
 [More Information](LICENSE)
