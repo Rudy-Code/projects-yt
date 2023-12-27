@@ -68,9 +68,13 @@ Oczywiście! Jestem otwarty na propozycje tematów od mojej społeczności. Jeś
 
 - [x] Ukrywanie Elementów: display: none vs visibility: hidden
 - [x] Przestań używać float
-- [ ] Animowany text gradient w CSS
+- [x] Animowany text gradient w CSS
 - [x] Jak zrobić animowane tło gradient w CSS
-- [ ] Animated gradient shadow
+- [ ] @mixin w SCSS
+- [ ] Pseudoelementy ::before i ::after
+- [ ] Przydatne skróty, konfiguracja w VSC, dodanie własnych Snippets
+- [ ] Template tag
+- [ ] Timer w JS
 - [ ] Animowany gradient cień
 - [ ] Poznaj różnice między position: absolute, relative i fixed
 - [ ] Jednostki w CSS: PX, EM czy REM? Jakie wybrać i kiedy?
