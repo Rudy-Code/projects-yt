@@ -1,0 +1,29 @@
+// default reset css
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 1.6rem;
+	height: 100vh;
+}
+
+// edit this section
+.blog-section {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 25%;
+	font-size: 5rem;
+	color: #fff;
+	background-color: #20b009;
+	border: 1px solid #000;
+}

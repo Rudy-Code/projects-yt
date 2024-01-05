@@ -1,0 +1,76 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  height: 100vh;
+}
+
+.one {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25%;
+  font-size: 5rem;
+  color: #fff;
+  background-color: #20b009;
+  border: 1px solid #000;
+  transition: background-color 0.3s ease-in-out;
+}
+.one:hover {
+  background-color: rgba(32, 176, 9, 0.8);
+}
+
+.two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25%;
+  font-size: 5rem;
+  color: #eb0c0c;
+  background-color: #b3b0b0;
+  border: 1px solid #000;
+  transition: background-color 0.3s ease-in-out;
+}
+.two:hover {
+  background-color: rgba(179, 176, 176, 0.8);
+}
+
+.three {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25%;
+  font-size: 5rem;
+  color: #000;
+  background-color: #bb3030;
+  border: 1px solid #000;
+  transition: background-color 0.3s ease-in-out;
+}
+.three:hover {
+  background-color: rgba(187, 48, 48, 0.8);
+}
+
+.four {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25%;
+  font-size: 5rem;
+  color: #fff;
+  background-color: #000;
+  border: 1px solid #000;
+  transition: background-color 0.3s ease-in-out;
+}
+.four:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}/*# sourceMappingURL=style.css.map */

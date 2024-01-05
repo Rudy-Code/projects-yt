@@ -1,0 +1,53 @@
+// default reset css
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 1.6rem;
+	height: 100vh;
+}
+
+// edit this section
+
+@mixin blog-section($bg-color: #20b009, $color: #fff) {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 25%;
+	font-size: 5rem;
+	color: $color;
+	background-color: $bg-color;
+	border: 1px solid #000;
+	transition: background-color 0.3s ease-in-out; //! dodaj transition na hover
+
+	&:hover {
+		background-color: rgba($bg-color, 0.8);
+	}
+}
+
+.one {
+	@include blog-section;
+}
+
+.two {
+	@include blog-section(#b3b0b0, #eb0c0c);
+}
+
+.three {
+	@include blog-section(#bb3030, #000);
+}
+
+.four {
+	@include blog-section($bg-color: #000);
+}
+
+//! Jeśli wszystko zrobiłeś poprawnie to gratulacje, jesteś gotowy na kolejny odcinek!
