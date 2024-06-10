@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pl">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Galeria</title>
+		<link rel="stylesheet" href="styl2.css" />
+	</head>
+	<body>
+		<header>
+			<h1>Galeria obrazów</h1>
+		</header>
+		<div class="flex">
+			<section class="left">
+				<img src="zdjecie.jpg" alt="zdjecie dnia" />
+				<h3>zdjecię dnia</h3>
+				<table>
+					<tr>
+						<td>Anna Porada</td>
+						<td>10 zdjęć</td>
+					</tr>
+					<tr>
+						<td>Krzysztof Wasilewski</td>
+						<td>12 zdjęć</td>
+					</tr>
+					<tr>
+						<td>Monika Kowalska</td>
+						<td>4 zdjęcia</td>
+					</tr>
+				</table>
+			</section>
+			<section class="right">
+				<button class="prev-btn">prev</button>
+				<img src="1.jpg" alt="galeria" class="main-img" />
+				<button class="next-btn">next</button>
+				<hr />
+				<div class="">
+					<img src="1.jpg" alt="miniatura" class="miniatura" />
+					<img src="2.jpg" alt="miniatura" class="miniatura" />
+					<img src="3.jpg" alt="miniatura" class="miniatura" />
+					<img src="4.jpg" alt="miniatura" class="miniatura" />
+					<img src="5.jpg" alt="miniatura" class="miniatura" />
+				</div>
+			</section>
+		</div>
+		<footer>
+			<a href="https://pixabay.com" target="_blank">Więcej obrazów</a>
+			<p>Galerię wykonał: PESEL</p>
+		</footer>
+
+		<script>
+			const prevBtn = document.querySelector('.prev-btn')
+			const nextBtn = document.querySelector('.next-btn')
+			const mainImg = document.querySelector('.main-img')
+			const miniatures = document.querySelectorAll('.miniatura')
+
+			let imgIndex = 1
+
+			function checkImg() {
+				if (imgIndex < 1) imgIndex = 5
+				if (imgIndex > 5) imgIndex = 1
+				mainImg.setAttribute('src', `${imgIndex}.jpg`)
+			}
+
+			prevBtn.addEventListener('click', () => {
+				imgIndex--
+				checkImg()
+			})
+			nextBtn.addEventListener('click', () => {
+				imgIndex++
+				checkImg()
+			})
+
+			miniatures.forEach(el => {
+				el.addEventListener('click', e => {
+					imgIndex = e.target.getAttribute('src').split('.')[0]
+                    checkImg()
+				})
+			})
+		</script>
+	</body>
+</html>
